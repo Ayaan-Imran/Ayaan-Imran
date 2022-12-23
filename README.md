@@ -1,6 +1,5 @@
 ## About me
-Hi! My name is **Ayaan Imran**, but I like to me called **"Analoger"** in the digital world. I am currently 14 years old. Even though I and a Pakistani from blood, I reside in a country called "Kuwait"; but after around 4 years
-, I would like to go back to my home country. From childhood, I always gravitated towards the "tech side" of everything. I am a _self taught_ student and I think of myself
+Hi! My name is **Ayaan Imran**, but I like to be called **"Analoger"** in the digital world. I am currently 14 years old. I am and have been currently living in Kuwait for my entire life. From childhood, I always gravitated towards the "tech side" of everything. I am a _self taught_ student and I think of myself
 as an "intermediate" in programming. 
 
 ## What programming language do I use?
